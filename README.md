@@ -9,7 +9,7 @@ zadanie-po-markdown-i-git-avgustin-ivt created by GitHub Classroom
 
 
 # <div align="center">
-   О КАФЕДРЕ
+      О КАФЕДРЕ
 </div>
 
 --------------------
