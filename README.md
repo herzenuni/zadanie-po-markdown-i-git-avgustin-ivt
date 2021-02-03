@@ -1,7 +1,6 @@
 # Задание по Markdown и Git
 
-# <img src="https://mybrainstorm.ru/wp-content/uploads/2019/12/logotip.png" alt="logo" width="75"/> Герценовский университет
-_Российский Государственный Педагогический Университет им. А. И. Герцена_
+# <img src="https://mybrainstorm.ru/wp-content/uploads/2019/12/logotip.png" alt="logo" width="75"/> Герценовский университет<br>_Российский Государственный Педагогический Университет им. А. И. Герцена_
 
 # Кафедра информационных технологий и электронного обучения
 
