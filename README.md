@@ -1,6 +1,6 @@
 # zadanie-po-markdown-i-git-avgustin-ivt
 zadanie-po-markdown-i-git-avgustin-ivt created by GitHub Classroom
-# <img src="https://mybrainstorm.ru/wp-content/uploads/2019/12/logotip.png" alt="logo" style="zoom: 1%;" /> Герценовский университет
+# <img src="https://mybrainstorm.ru/wp-content/uploads/2019/12/logotip.png" alt="logo" wight="5"/> Герценовский университет
 
 ## _Российский Государственный Педагогический Университет им. А. И. Герцена_
 
@@ -13,7 +13,6 @@ zadanie-po-markdown-i-git-avgustin-ivt created by GitHub Classroom
 
 
 
---------------------
 
 
 У кафедры информационных технологий и электронного обучения богатая история. Она началась в 1925 г. с основания методического кабинета «Учебное кино», созданного при кинолектории ЛГПИ им. А.И. Герцена.
