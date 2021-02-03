@@ -1,6 +1,6 @@
 # zadanie-po-markdown-i-git-avgustin-ivt
 zadanie-po-markdown-i-git-avgustin-ivt created by GitHub Classroom
-# <img src="https://mybrainstorm.ru/wp-content/uploads/2019/12/logotip.png" alt="logo" style="zoom: 5%;" /> Герценовский университет
+# <img src="https://mybrainstorm.ru/wp-content/uploads/2019/12/logotip.png" alt="logo" style="zoom: 1%;" /> Герценовский университет
 
 ## _Российский Государственный Педагогический Университет им. А. И. Герцена_
 
@@ -8,7 +8,7 @@ zadanie-po-markdown-i-git-avgustin-ivt created by GitHub Classroom
 
 
 
-p=. # О КАФЕДРЕ
+p=.# О КАФЕДРЕ
 
 
 
