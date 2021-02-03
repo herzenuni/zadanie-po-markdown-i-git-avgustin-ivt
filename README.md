@@ -8,7 +8,7 @@ zadanie-po-markdown-i-git-avgustin-ivt created by GitHub Classroom
 
 
 
-p=.# О КАФЕДРЕ
+h3=. О КАФЕДРЕ
 
 
 
